@@ -1,0 +1,54 @@
+.war{
+	background-image:url(../res/2.png);
+	background-position:center center;
+	background-size:cover;
+	transition:all ease .5s;
+	width: 100px;
+	height: 100px;
+}
+.war:hover{
+	background-image:url(../res/1.png);
+}
+.exp{
+	background-image:url(../res/3.png);
+	background-position:center center;
+	background-size:cover;
+	transition:all ease .5s;
+	width: 100px;
+	height: 100px;
+
+}
+.exp:hover{
+	background-image:url(../res/4.png);
+}
+.civ{
+	background-image:url(../res/5.png);
+	background-position:center center;
+	background-size:cover;
+	transition:all ease .5s;
+	width: 100px;
+	height: 100px;
+
+}
+.civ:hover{
+	background-image:url(../res/6.png);
+}
+.sci{
+	background-image:url(../res/7.png);
+	background-position:center center;
+	background-size:cover;
+	transition:all ease .5s;
+	width: 100px;
+	height: 100px;
+
+}
+.sci:hover{
+	background-image:url(../res/8.png);
+}
+
+body {
+	background-image:url(../res/bg.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding-top: 50px;
+}
